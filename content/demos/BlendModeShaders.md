@@ -1,6 +1,6 @@
 ---
 title: "BlendModeShaders"
-layout: demo
+layout: hacker
 width: 640
 height: 480
 source: "Effects/BlendModeShaders"
